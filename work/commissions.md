@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Comissions
+title: Commissions
 date: 2016-2018
 ---
 
