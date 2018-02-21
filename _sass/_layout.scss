@@ -1,0 +1,73 @@
+.site-title {
+    color: white;
+    text-decoration: none;
+}
+
+.site-header {
+    padding: 1rem 5%;
+    margin-bottom: 2rem;
+}
+
+
+
+.site-footer {
+    padding: 2rem 5%;
+    font-size: .8rem;
+    color: gray;
+    p {
+        margin-bottom: .5rem;
+    }
+    a {
+        color: gray;
+        text-decoration: underline;
+    }
+}
+.site-content {
+    padding-left: 5%;
+    padding-right: 5%;
+    h2 {
+        margin-bottom: .5rem;
+        font-size: 1.1rem;
+        
+    }
+}
+.projects {
+    list-style: none;
+}
+
+.project-title {
+    text-decoration: none;
+    color: white;
+    font-size: 1.4rem;
+    &:hover, &:focus {
+        text-decoration: underline;
+    }
+}
+
+.project-date {
+    font-size: 1rem;
+}
+
+.post {
+    width: 80%;
+    padding-left: 5%;
+    padding-right: 5%;
+    li {
+        list-style: none;
+    }
+    a {
+        color: white;
+        font-size: 1.2rem;
+
+    }
+    img, video {
+        display: block;
+        margin-bottom: 1rem;
+        max-width: 100%;
+    }
+}
+
+.post-title {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<main class="site-content">
+    <h2>Projects</h2>
+    <ul class="projects">
+        {% for p in site.data.projects %}
+            <li class="project">
+                <a href='{{ p.url }}' class="project-title">{{ p.title }} <date class="project-date">{{ p.date }}</date></a>
+            </li>
+        {% endfor %}
+    </ul>
+</main>
