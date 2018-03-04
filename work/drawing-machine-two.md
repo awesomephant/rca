@@ -3,6 +3,8 @@ layout: page
 title: Teaching machines to draw (2)
 ---
 
+[Process Notes](http://www.maxkoehler.com/2017/teaching-machines-to-draw/)
+
 ![DM2](/rca/assets/dm2-1.jpg)
 ![DM2](/rca/assets/dm2-4.jpg)
 ![DM2](/rca/assets/dm2-laptop.jpg)
